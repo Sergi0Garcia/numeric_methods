@@ -1,0 +1,3 @@
+Metodo grafico
+
+TABULAR LOS VALORES Y GRAFICAR
