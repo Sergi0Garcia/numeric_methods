@@ -1,1 +1,0 @@
-Factorización LU
