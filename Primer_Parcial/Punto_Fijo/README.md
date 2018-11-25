@@ -1,3 +1,3 @@
 Punto Fijo
 
-Despejar la variable, dar un valor inicial y actualizar hasta que sea cercano a cero.
+El método del punto fijo consiste en despejar la variable, después de esto se debe de dar un valor inicial y se tiene que actualizar hasta que este sea cercano a cero.
