@@ -1,4 +1,4 @@
-# Tercer Parcial
+# P3
     Regresión Polinomial
     Interpolación Polinomial
     Método de Lagrange
