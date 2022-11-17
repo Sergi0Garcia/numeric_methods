@@ -1,4 +1,4 @@
-# Primer Parcial
+# P1
     Método de Bisección
     Convergencia y Divergencia 
     Newton - Raphson
