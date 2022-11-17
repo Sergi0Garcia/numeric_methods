@@ -1,11 +1,8 @@
 # metodos_numericos
-Sergio Francisco García González 
+<em>
+Various numerical methods written in Python 
 
-Serie de programas en python de distintos métodos numéricos. 
-
-## INDICE
-
-  ### Primer Parcial
+  ### P1
     Método de Bisección
     Convergencia y Divergencia
     Newton - Raphson
@@ -13,16 +10,17 @@ Serie de programas en python de distintos métodos numéricos.
     Punto Fijo
     Método Gráfico
 
-  ### Segundo Parcial
+  ### P2
     Funciones con Matrices
     Eliminación Gaussiana
     Factorización LU
     Newton - Rapshon (Sistemas de Ecuaciones)
     Gauss-Seidel
     
-  ### Tercer Parcial
+  ### P3
     Regresión Polinomial
     Interpolación Polinomial
     Método de Lagrange
     Integración Numérica
     Ecuaciones Diferenciales - Euler
+</em>
