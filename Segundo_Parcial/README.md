@@ -1,4 +1,4 @@
-#  Segundo Parcial
+#  P2
     Funciones con Matrices
     Eliminación Gaussiana
     Factorización LU
